@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Iniciante em Desenvolvimento: Aprendendo PHP e Laravel.<br>- Meta: Evoluir para desenvolvedora full stack.<br>- Aberta a Colaborações: Sempre disposta a aprender e compartilhar ideias.</p>
+<p align="left">- Desenvolvedora Iniciante: Focada em PHP e Laravel.<br>- Objetivo: Crescer como desenvolvedora full stack.<br>- Colaboração: Sempre aberta a aprender e trocar ideias.</p>
 
 ###
 
