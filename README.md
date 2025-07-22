@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedora Iniciante: Focada em PHP e Laravel.<br>- Objetivo: Crescer como desenvolvedora full stack.<br>- Colaboração: Sempre aberta a aprender e trocar ideias.</p>
+<p align="left">- full stack developer.</p>
 
 ###
 
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
 
 ###
